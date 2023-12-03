@@ -11,9 +11,11 @@ This assignment creates a carousel of 50 states in the US with following feature
 
 ### To run the project locally:
 1. Clone the repository:
-```git clone https://github.com/nikita-jare/code-assignment.git```
+```
+git clone https://github.com/nikita-jare/code-assignment.git
+```
 
-2. Start the server:
+3. Start the server:
 ```cd server
 npm install
 npx tsc
