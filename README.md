@@ -25,3 +25,4 @@ node dist/server.js
 npm install
 npx react-native run-ios
 ```
+<img src="https://github.com/nikita-jare/code-assignment/blob/main/Screenshots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202023-12-01%20at%2019.26.55.png" width="25%" height="60%">    <img src="https://github.com/nikita-jare/code-assignment/blob/main/Screenshots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202023-12-01%20at%2019.26.58.png" width="25%" height="60%">
