@@ -16,14 +16,16 @@ git clone https://github.com/nikita-jare/code-assignment.git
 ```
 
 3. Start the server:
-```cd server
+```
+cd server
 npm install
 npx tsc
 node dist/server.js
 ```
 
 3. Run the Client:
-```cd client/StateCarousel
+```
+cd client/StateCarousel
 npm install
 npx react-native run-ios
 ```
